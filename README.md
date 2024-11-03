@@ -16,6 +16,7 @@ Un sencillo juego de "Tres en Raya" (o Tic-Tac-Toe) desarrollado en HTML, CSS y 
 ## 📋 Descripción
 Este proyecto es una versión web de un clásico juego de mesa, donde dos jugadores compiten para completar una fila, columna o diagonal con sus símbolos ("X" o "O") en una cuadrícula de 3x3. Incluye una interfaz de usuario sencilla con indicadores para cada jugador y una opción de reinicio al finalizar cada partida.
 
+
 ## ⚙️ Instalación
 Para ejecutar este proyecto en tu máquina local, sigue estos pasos:
 
@@ -54,3 +55,17 @@ La estructura de archivos del proyecto es la siguiente:
 | `index.html`  | Estructura HTML del juego                 |
 | `style.css`   | Estilos CSS para el diseño y apariencia   |
 | `script.js`   | Lógica de juego en JavaScript             |
+
+
+### 📄 Descripción de Archivos
+- **index.html**: Contiene la estructura básica y los elementos de la interfaz, como el selector de jugadores y el tablero de juego.
+- **style.css**: Define el esquema de colores, tipografía y diseño responsivo del juego. Usa una paleta de colores oscuros y la fuente "Poppins" para un estilo moderno.
+- **script.js**: Incluye la lógica para gestionar los turnos de los jugadores, las condiciones de victoria y la funcionalidad de reinicio del juego.
+
+## 👤 Autor
+Este juego fue desarrollado como un proyecto de práctica en HTML, CSS y JavaScript. Ideal para quienes deseen explorar la creación de juegos web simples y entender cómo manejar la lógica básica en JavaScript.
+
+---
+
+¡🎉 Disfruta jugando y mejorando tus habilidades de programación con este proyecto de Tres en Raya! 🎉
+
