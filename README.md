@@ -3,13 +3,13 @@
 Un sencillo juego de "Tres en Raya" (o Tic-Tac-Toe) desarrollado en HTML, CSS y JavaScript. Este proyecto permite jugar una partida de Tres en Raya entre dos jugadores, utilizando una interfaz web intuitiva y minimalista.
 
 ## 📑 Tabla de Contenidos
-- [📋 Descripción](#descripción)
-- [⚙️ Instalación](#instalación)
-- [🚀 Uso](#uso)
-- [📸 Capturas de Pantalla](#capturas-de-pantalla)
-- [🛠️ Tecnologías Utilizadas](#tecnologías-utilizadas)
-- [📂 Estructura del Proyecto](#estructura-del-proyecto)
-- [👤 Autor](#autor)
+- [📋 Descripción](#-descripción)
+- [⚙️ Instalación](#-instalación)
+- [🚀 Uso](#-uso)
+- [📸 Capturas de Pantalla](#-capturas-de-pantalla)
+- [🛠️ Tecnologías Utilizadas](#-tecnologías-utilizadas)
+- [📂 Estructura del Proyecto](#-estructura-del-proyecto)
+- [👤 Autor](#-autor)
 
 ---
 
