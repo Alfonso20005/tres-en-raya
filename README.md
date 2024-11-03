@@ -1,5 +1,7 @@
 # 🎮 Tres en Raya (Tic-Tac-Toe)
 
+![https://github.com/Alfonso20005/tres-en-raya](imagenes/banner.JPG)
+
 Un sencillo juego de "Tres en Raya" (o Tic-Tac-Toe) desarrollado en HTML, CSS y JavaScript. Este proyecto permite jugar una partida de Tres en Raya entre dos jugadores, utilizando una interfaz web intuitiva y minimalista.
 
 ## 📑 Tabla de Contenidos
@@ -40,7 +42,7 @@ Este juego no requiere instalación de dependencias adicionales, ya que está co
 5. Puedes reiniciar la partida en cualquier momento usando el botón de reinicio.
 
 ## 📸 Capturas de Pantalla
-*(Aquí puedes agregar capturas de pantalla del juego en funcionamiento)*
+![https://github.com/Alfonso20005/tres-en-raya](imagenes/imgJuego.JPG)
 
 ## 🛠️ Tecnologías Utilizadas
 - **HTML5**: Estructura y contenido del juego.
